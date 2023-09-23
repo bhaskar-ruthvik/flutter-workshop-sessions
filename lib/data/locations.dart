@@ -1,4 +1,5 @@
-import 'package:demo_app/models/Location.dart';
+
+import 'package:demo_app/models/location.dart';
 
 var locations = [
   Location(
